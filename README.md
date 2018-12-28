@@ -6,5 +6,5 @@ demo git
 et maintenant on modifie depuis github
 3.Mais aussi depuis ma machine.....
 4-comprendre ce qui est bien et non
-
+5-je suis fiere de moi;je te le dis fierement
 
